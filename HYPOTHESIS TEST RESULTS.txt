@@ -1,0 +1,13 @@
+HYPOTHESIS TEST RESULTS
+
+Test 1: One Sample T-Test
+H0: Mean sales = 40000
+Result: p = 0.032 (Reject H0)
+
+Test 2: Independent T-Test
+H0: No difference between North and South
+Result: p = 0.041 (Reject H0)
+
+Test 3: ANOVA
+H0: All regions have equal mean sales
+Result: p = 0.002 (Reject H0)
